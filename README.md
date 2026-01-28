@@ -9,9 +9,8 @@ This project is submitted along with a demo and documentation for evaluation.
 
 ## Demo
 
-Live Demo (GitHub Pages):  
-https://meshad260.github.io/Resume/
-
+Live Demo (GitHub Pages):
+https://github.com/meshad260/Resume
 ---
 
 ## Setup Steps
