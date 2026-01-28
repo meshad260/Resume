@@ -23,6 +23,7 @@ Navigate to the project folder:
 Write:
 cd Resume
 Open index.html in any web browser
+
 Usage
 
 View the resume in a browser
