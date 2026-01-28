@@ -23,3 +23,21 @@ Navigate to the project folder:
 Write:
 cd Resume
 Open index.html in any web browser
+Usage
+
+View the resume in a browser
+
+Modify index.html to update:
+
+Personal details
+
+Skills
+
+Projects
+
+Education
+
+Contact information
+
+No external libraries or frameworks are used.
+
