@@ -10,7 +10,7 @@ This project is submitted along with a demo and documentation for evaluation.
 ## Demo
 
 Live Demo (GitHub Pages):  
-https://meshad260.github.io/resume/
+https://meshad260.github.io/Resume/
 
 ---
 
