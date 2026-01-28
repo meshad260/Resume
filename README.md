@@ -17,9 +17,9 @@ https://github.com/meshad260/Resume
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/meshad260/resume.git
+   git clone https://github.com/meshad260/Resume.git
 Navigate to the project folder:
 
 Write:
-cd resume
+cd Resume
 Open index.html in any web browser
